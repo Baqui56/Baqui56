@@ -1,5 +1,5 @@
 ## Olá!👋 Sou Raquel Baqui.
-🎓 Futura Analista de Sistemas.
+🎓 Analista de Sistemas.
 
 💻 Desenvolverora Front End.
 
